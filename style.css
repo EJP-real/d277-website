@@ -1,0 +1,51 @@
+/* Section D*/
+
+/* Section D.1.*/
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Section D.2.*/
+nav ul li a:hover {
+    color: #03c61a;
+}
+
+/* Section D.3.*/
+nav {
+    float: right;
+    padding: 25px;
+}
+
+/* Section D.4.*/
+table { 
+    position: absolute;
+    background-color: rgb(123, 44, 44);
+}
+
+/* Section D.5.*/
+html {
+    position: relative;
+}
+
+/* Section D.6.1*/
+html {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/800px-Flag_of_California.svg.png);
+    background-size: cover;
+    padding: 15px;
+}
+
+/* Section D.6.2*/
+.cImage {
+    width: 380px; 
+    height: auto; 
+  }
+.cImage {
+    padding: 25px;
+    float: right;
+}
+
+/* Section D.6.3*/
+#main-header {
+    font-size: 1.5em;
+    color: rgb(131, 45, 39);
+}
